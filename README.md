@@ -6,6 +6,8 @@ Use in conjunction with [Python Packaging User Guide][]'s [Tutorial on Packaging
 
 Pay careful attention to the contents of `setup.py` to ensure your project is configured correctly, and remove sections not relevant to your project.
 
+A minimal `compat.py` module is included to help projects maintain py2/py3 compatibility. Add further compatibility code to it within your specific project.
+
 [Python Packaging User Guide]: https://packaging.python.org
 [Tutorial on Packaging and Distributing Projects]: https://packaging.python.org/en/latest/distributing.html
 
