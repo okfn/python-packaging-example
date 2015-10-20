@@ -1,4 +1,3 @@
----
 # A Python packaging example
 
 This repository can be downloaded and used as the basic structure for OKFN python projects. It provides the basic requirements for creating a py2/3 universal package.
@@ -10,7 +9,7 @@ Pay careful attention to the contents of `setup.py` to ensure your project is co
 [Python Packaging User Guide]: https://packaging.python.org
 [Tutorial on Packaging and Distributing Projects]: https://packaging.python.org/en/latest/distributing.html
 
-Remove everything in this section in your own project.
+Remove this section in your own project.
 
 ---
 
